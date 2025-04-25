@@ -8,6 +8,12 @@ It is a JavaScript testing framework inspired by Jest. Very lightweight, it's st
 npm install @dev-geos/mod-jest
 ```
 
+### 1.1 Or load from CDN
+
+```html
+<script type="module" src="https://cdn.jsdelivr.net/gh/gilles-ossin/MOD-JEST@main/src/index.js"></script>
+```
+
 ### 2. Import and Use it
 
 ```js

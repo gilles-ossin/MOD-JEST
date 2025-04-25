@@ -1,5 +1,5 @@
-# MOD-JEST
-It is a JavaScript testing framework inspired by Jest. Very lightweight, it's streamlined to run quickly in the console with colorful results. It works in frontend with of any framework and projects using: django, laravel,  React, TypeScript, Node, Angular, Vue, and more.
+It is a JavaScript testing library inspired by Jest. 
+Very lightweight, it's streamlined to run quickly in the console with colorful results. It works in frontend with of any framework and projects using: django, laravel, React, TypeScript, Node, Angular, Vue, and more.
 ## HOW TO USE
 
 ### 1. Install from npm

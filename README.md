@@ -1,5 +1,9 @@
-It is a JavaScript testing library inspired by Jest. 
+[ENG] It is a JavaScript testing library inspired by Jest. 
 Very lightweight, it's streamlined to run quickly in the console with colorful results. It works in frontend with of any framework and projects using: django, laravel, React, TypeScript, Node, Angular, Vue, and more.
+
+[FR] Il permet de tester vos scripts et fonctions avant de les mettre en production. Il peut fournir un rapport personnalisable sur le fonctionnement de votre fonction.
+Il suffit de configuer correctement et il vous dira si votre fonction marche correctement ou non, si elle génere des erreurs, lesquelles...
+
 ## HOW TO USE
 
 ### 1. Install from npm

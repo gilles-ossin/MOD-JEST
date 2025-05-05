@@ -2,7 +2,8 @@
 Very lightweight, it's streamlined to run quickly in the console with colorful results. It works in frontend with of any framework and projects using: django, laravel, React, TypeScript, Node, Angular, Vue, and more.
 
 [FR] Il permet de tester vos scripts et fonctions avant de les mettre en production. Il peut fournir un rapport personnalisable sur le fonctionnement de votre fonction.
-Il suffit de configuer correctement et il vous dira si votre fonction marche correctement ou non, si elle génere des erreurs, lesquelles...
+Il suffit de configuer correctement et il vous dira si votre fonction marche correctement ou non, si elle génere des erreurs, lesquelles... 
+Les résultats sont affichés en couleur dans la console.
 
 ## HOW TO USE
 
